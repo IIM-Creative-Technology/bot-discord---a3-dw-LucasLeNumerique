@@ -6,7 +6,7 @@
 ### Exercice réussi
 • **Assigner automatiquement un rôle à un nouveau membre (Recrue dans mon serveur)**
 
-Pour lancer le programme, après avoir installé le projet en local :
+Pour lancer le programme, après avoir installé le projet en local : <br/>
 Exécuter `npm init` pour obtenir les modules nécessaires à son fonctionnement
 
 
